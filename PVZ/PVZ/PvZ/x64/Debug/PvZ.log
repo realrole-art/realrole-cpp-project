@@ -1,0 +1,7 @@
+﻿  global.cpp
+  plant.cpp
+  PvZ.cpp
+D:\pvzproject\PVZ测试(4)\PVZ测试\PvZ\PvZ.cpp(172,9): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  zombie.cpp
+  正在生成代码...
+  PvZ.vcxproj -> D:\pvzproject\PVZ测试(4)\PVZ测试\x64\Debug\PvZ.exe
